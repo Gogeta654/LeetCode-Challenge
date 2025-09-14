@@ -39,7 +39,7 @@ This repo will serve as the *public log* of my preparation and the official reco
   <a href="https://leetcode.com/AniruddhUniyal/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://github.com/Gogeta654/leetcode-world-record" target="_blank">
+  <a href="https://github.com/Gogeta654" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" />
   </a>
 </p>

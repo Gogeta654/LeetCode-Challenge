@@ -12,9 +12,9 @@
 
 ## Declaration
 
-I will officially begin the **LeetCode Questions in 7 Days Challenge* on:
+I will officially begin the **LeetCode Top 200 Questions in 7 Days Challenge** on:
 
-*1st December 2025*
+**1st December 2025**
 
 Until then, I will be *training, practicing, and preparing* with:  
 - Advanced *Mathematics* 
@@ -27,9 +27,9 @@ This repo will serve as the *public log* of my preparation and the official reco
 
 ##  Mission Plan
 
--  Training Phase → Until *30th November 2025*  
--  Official Start → *1st December 2025*  
--  Goal → Solve * 3000+ LeetCode Problems* in *7 Days*  
+-  Training Phase → Until **30th November 2025**
+-  Official Start → **1st December 2025**
+-  Goal → Solve **Top 200 LeetCode Problems** in 7 Days  
 
 ---
 
